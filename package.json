@@ -1,0 +1,23 @@
+{
+	"name": "nodesample",
+	"version": "1.0.0",
+	"description": "Testing the Ec2 instance",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ravipaiyaa/NodeSample.git"
+	},
+	"author": "Ravikumar Kannan",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ravipaiyaa/NodeSample/issues"
+	},
+	"homepage": "https://github.com/ravipaiyaa/NodeSample#readme",
+	"dependencies": {
+		"express": "^4.18.2"
+	}
+}
